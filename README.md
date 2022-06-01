@@ -7,3 +7,4 @@ This Repository contains my solutions to June LeetCoding Challenge 2022 problems
 * Checkout my LeetCode profile at <a href="https://leetcode.com/michaelehab/">michaelehab</a>
 
 ## Solutions
+1. <a href="./1480.Running-Sum-of-1d-Array.cpp">Running Sum of 1d Array</a>
