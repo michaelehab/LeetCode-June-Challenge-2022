@@ -8,3 +8,4 @@ This Repository contains my solutions to June LeetCoding Challenge 2022 problems
 
 ## Solutions
 1. <a href="./1480.Running-Sum-of-1d-Array.cpp">Running Sum of 1d Array</a>
+2. <a href="./867.Transpose-Matrix.cpp">Transpose Matrix</a>
