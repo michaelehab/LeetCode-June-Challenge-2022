@@ -11,3 +11,4 @@ This Repository contains my solutions to June LeetCoding Challenge 2022 problems
 2. <a href="./867.Transpose-Matrix.cpp">Transpose Matrix</a>
 3. <a href="./304.Range-Sum-Query-2D-Immutable.cpp">Range Sum Query 2D - Immutable</a>
 4. <a href="./51.N-Queens.cpp">N-Queens</a>
+5. <a href="./52.N-Queens-II.cpp">N-Queens II</a>
