@@ -12,8 +12,7 @@ This Repository contains my solutions to June LeetCoding Challenge 2022 problems
 3. <a href="./304.Range-Sum-Query-2D-Immutable.cpp">Range Sum Query 2D - Immutable</a>
 4. <a href="./51.N-Queens.cpp">N-Queens</a>
 5. <a href="./52.N-Queens-II.cpp">N-Queens II</a>
-6. <a href="./160.Intersection-of-Two-Linked-Lists.cpp">Intersection of Two Linked Lists
-</a>
+6. <a href="./160.Intersection-of-Two-Linked-Lists.cpp">Intersection of Two Linked Lists</a>
 7. <a href="./88.Merge-Sorted-Array.cpp">Merge Sorted Array</a>
 8. <a href="./1332.Remove-Palindromic-Subsequences.cpp">Remove Palindromic Subsequences</a>
 9. <a href="./167.Two-Sum-II-Input-Array-Is-Sorted.cpp">Two Sum II - Input Array Is Sorted</a>
