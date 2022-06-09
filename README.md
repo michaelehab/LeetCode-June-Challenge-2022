@@ -16,3 +16,4 @@ This Repository contains my solutions to June LeetCoding Challenge 2022 problems
 </a>
 7. <a href="./88.Merge-Sorted-Array.cpp">Merge Sorted Array</a>
 8. <a href="./1332.Remove-Palindromic-Subsequences.cpp">Remove Palindromic Subsequences</a>
+9. <a href="./167.Two-Sum-II-Input-Array-Is-Sorted.cpp">Two Sum II - Input Array Is Sorted</a>
