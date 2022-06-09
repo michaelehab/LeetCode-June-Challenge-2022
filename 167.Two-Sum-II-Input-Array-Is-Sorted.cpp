@@ -1,3 +1,4 @@
+// Using Binary Search: Time : O(nlogn) - Space : O(1)
 class Solution {
 public:
     int binarySearch(int start, int target, vector<int>&nums){
@@ -19,6 +20,25 @@ public:
                 ans[1] = other + 1;
                 break;
             }
+        }
+        return ans;
+    }
+};
+
+// Using two pointers: Time : O(n) - Space : O(1)
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        vector <int> ans(2);
+        int i = 0, j = nums.size() - 1;
+        while(i < j){
+            if(nums[i] + nums[j] == target){
+                ans[0] = i + 1;
+                ans[1] = j + 1;
+                return ans;
+            }
+            else if(nums[i] + nums[j] < target) i++;
+            else j--;
         }
         return ans;
     }
