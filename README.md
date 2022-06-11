@@ -17,3 +17,4 @@ This Repository contains my solutions to June LeetCoding Challenge 2022 problems
 8. <a href="./1332.Remove-Palindromic-Subsequences.cpp">Remove Palindromic Subsequences</a>
 9. <a href="./167.Two-Sum-II-Input-Array-Is-Sorted.cpp">Two Sum II - Input Array Is Sorted</a>
 10. <a href="./3.Longest-Substring-Without-Repeating-Characters.cpp">Longest Substring Without Repeating Characters</a>
+11. <a href="./1658.Minimum-Operations-to-Reduce-X-to-Zero.cpp">Minimum Operations to Reduce X to Zero</a>
