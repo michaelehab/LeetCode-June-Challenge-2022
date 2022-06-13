@@ -19,3 +19,4 @@ This Repository contains my solutions to June LeetCoding Challenge 2022 problems
 10. <a href="./3.Longest-Substring-Without-Repeating-Characters.cpp">Longest Substring Without Repeating Characters</a>
 11. <a href="./1658.Minimum-Operations-to-Reduce-X-to-Zero.cpp">Minimum Operations to Reduce X to Zero</a>
 12. <a href="./1695.Maximum-Erasure-Value.cpp">Maximum Erasure Value</a>
+13. <a href="./120.Triangle.cpp">Triangle</a>
