@@ -20,3 +20,4 @@ This Repository contains my solutions to June LeetCoding Challenge 2022 problems
 11. <a href="./1658.Minimum-Operations-to-Reduce-X-to-Zero.cpp">Minimum Operations to Reduce X to Zero</a>
 12. <a href="./1695.Maximum-Erasure-Value.cpp">Maximum Erasure Value</a>
 13. <a href="./120.Triangle.cpp">Triangle</a>
+14. <a href="./583.Delete-Operation-for-Two-Strings.cpp">Delete Operation for Two Strings</a>
