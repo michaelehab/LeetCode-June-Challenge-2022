@@ -21,3 +21,4 @@ This Repository contains my solutions to June LeetCoding Challenge 2022 problems
 12. <a href="./1695.Maximum-Erasure-Value.cpp">Maximum Erasure Value</a>
 13. <a href="./120.Triangle.cpp">Triangle</a>
 14. <a href="./583.Delete-Operation-for-Two-Strings.cpp">Delete Operation for Two Strings</a>
+15. <a href="./1048.Longest-String-Chain.cpp">Longest String Chain</a>
