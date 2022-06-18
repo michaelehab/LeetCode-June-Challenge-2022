@@ -24,3 +24,4 @@ This Repository contains my solutions to June LeetCoding Challenge 2022 problems
 15. <a href="./1048.Longest-String-Chain.cpp">Longest String Chain</a>
 16. <a href="./5.Longest-Palindromic-Substring.cpp">Longest Palindromic Substring</a>
 17. <a href="./968.Binary-Tree-Cameras.cpp">Binary Tree Cameras</a>
+18. <a href="./745.Prefix-and-Suffix-Search.cpp">Prefix and Suffix Search</a>
