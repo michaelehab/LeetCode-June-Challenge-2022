@@ -26,3 +26,4 @@ This Repository contains my solutions to June LeetCoding Challenge 2022 problems
 17. <a href="./968.Binary-Tree-Cameras.cpp">Binary Tree Cameras</a>
 18. <a href="./745.Prefix-and-Suffix-Search.cpp">Prefix and Suffix Search</a>
 19. <a href="./1268.Search-Suggestions-System.cpp">Search Suggestions System</a>
+20. <a href="./820.Short-Encoding-of-Words.cpp">Short Encoding of Words</a>
