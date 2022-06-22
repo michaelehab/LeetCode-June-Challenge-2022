@@ -28,3 +28,4 @@ This Repository contains my solutions to June LeetCoding Challenge 2022 problems
 19. <a href="./1268.Search-Suggestions-System.cpp">Search Suggestions System</a>
 20. <a href="./820.Short-Encoding-of-Words.cpp">Short Encoding of Words</a>
 21. <a href="./1642.Furthest-Building-You-Can-Reach.cpp">Furthest Building You Can Reach</a>
+22. <a href="./215.Kth-Largest-Element-in-an-Array.cpp">Kth Largest Element in an Array</a>
