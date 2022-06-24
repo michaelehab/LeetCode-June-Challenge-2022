@@ -30,3 +30,4 @@ This Repository contains my solutions to June LeetCoding Challenge 2022 problems
 21. <a href="./1642.Furthest-Building-You-Can-Reach.cpp">Furthest Building You Can Reach</a>
 22. <a href="./215.Kth-Largest-Element-in-an-Array.cpp">Kth Largest Element in an Array</a>
 23. <a href="./630.Course-Schedule-III.cpp">Course Schedule III</a>
+24. <a href="./1354.Construct-Target-Array-With-Multiple-Sums.cpp">Construct Target Array With Multiple Sums</a>
