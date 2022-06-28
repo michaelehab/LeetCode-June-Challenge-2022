@@ -34,3 +34,4 @@ This Repository contains my solutions to June LeetCoding Challenge 2022 problems
 25. <a href="./665.Non-decreasing-Array.cpp">Non-decreasing Array</a>
 26. <a href="./1423.Maximum-Points-You-Can-Obtain-from-Cards.cpp">Maximum Points You Can Obtain from Cards</a>
 27. <a href="./1689.Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers.cpp">Partitioning Into Minimum Number Of Deci-Binary Numbers</a>
+28. <a href="./1647.Minimum-Deletions-to-Make-Character-Frequencies-Unique.cpp">Minimum Deletions to Make Character Frequencies Unique</a>
